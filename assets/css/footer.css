@@ -1,0 +1,23 @@
+.footer{
+    height: 3rem;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background: var(--white);
+}
+
+.footer__parrafo{
+    font-size: 14px;
+    color: var(--gray);
+
+}
+
+@media screen and (max-width: 378px) {
+    .footer{
+        flex-direction: column-reverse;
+        height: 4rem;
+        margin-top: 1rem;
+    }
+}
+
+

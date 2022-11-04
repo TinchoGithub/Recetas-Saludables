@@ -1,0 +1,44 @@
+.preparacion__parrafo{
+    color: var(--gray);
+    line-height: 2rem;
+    font-size: 20px;
+    text-align: center;
+    width: 60%;
+}
+
+
+@media screen and (max-width: 378px) {
+
+    .preparacion__parrafo{
+        line-height: 20px;
+        text-align:justify;
+        width: 80%;
+        font-size: 16px;
+        
+    }
+}
+
+@media screen and (min-width: 378px) {
+
+    .preparacion__parrafo{
+        line-height: 20px;
+        text-align:justify;
+        width: 80%;
+        font-size: 16px;
+    }
+}
+
+@media screen and (min-width: 600px) {
+    .preparacion__parrafo{
+        line-height: 2rem;
+        font-size: 16px;
+        width: 60%;
+        text-align: center;
+    }
+}
+
+@media screen and (min-width: 600px) {
+    .preparacion__parrafo{
+        font-size: 20px;
+    }
+}

@@ -1,0 +1,6 @@
+.contacto__seguinos{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+

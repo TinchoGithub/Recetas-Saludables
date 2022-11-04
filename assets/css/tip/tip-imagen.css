@@ -1,0 +1,17 @@
+.tip__imagen {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 100%;
+    background: var(--success);
+    width: 200px;
+    height: 200px;
+}
+
+.icono{
+    color: var(--white);
+    font-size: 100px;
+}
+
+
+

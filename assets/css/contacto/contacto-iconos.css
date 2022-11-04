@@ -1,0 +1,16 @@
+.contacto__iconos{
+    display: flex;
+    padding-top: 1rem
+
+}
+
+.iconos{
+    color: var(--gray);
+    font-size: 40px;
+    padding: 1rem;
+}
+
+.iconos:hover{
+    
+    color: var(--success);
+}

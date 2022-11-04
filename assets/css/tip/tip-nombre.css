@@ -1,0 +1,6 @@
+.tip__nombre {
+    color: var(--danger);
+    font-family: Pacifico, cursive;
+    font-size: 2rem;
+    margin: 1rem 0;
+}

@@ -1,0 +1,11 @@
+.receta__boton {
+    background: var(--success);
+    border: none;
+    border-radius: 5px;
+    color: var(--white);
+    padding: 1rem;
+}
+
+.receta__boton:hover{
+    cursor: pointer;
+}

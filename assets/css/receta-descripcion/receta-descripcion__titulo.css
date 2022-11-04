@@ -1,0 +1,14 @@
+.receta-descripcion__titulo{
+    font-size: 50px;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    color: var(--success);
+    font-family: pacifico, cursive;
+}
+
+@media screen and (max-width: 378px) {
+    .receta-descripcion__titulo{
+        font-size: 30px;
+    }
+
+}

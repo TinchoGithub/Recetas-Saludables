@@ -1,0 +1,8 @@
+.receta-descripcion__ingredientes{
+    display: flex;
+    justify-content: center;
+    text-align: justify;
+    background: var(--white);
+    font-size: 16px;
+    width: 100%;
+}
