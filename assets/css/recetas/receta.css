@@ -24,9 +24,4 @@
     }
 }
 
-@media screen and (min-width: 922px) {
-    .receta {
-        margin-right: 5rem;
-        width: calc(25% - 5rem);
-    }
-}
+
